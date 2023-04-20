@@ -19,7 +19,7 @@ public class Exercicio5 {
 		Scanner entrada1 = new Scanner(System.in);
 		double valor2 = entrada.nextDouble();
 		
-		media= (valor1 *4 + valor2*6);
+		media= (valor1 *0.4 + valor2*0.6);
 		
 		
 		System.out.println("Sua media poderada é: " +media);

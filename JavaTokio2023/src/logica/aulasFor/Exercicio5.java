@@ -16,12 +16,12 @@ public class Exercicio5 {
 			
 			System.out.println("Digite um numero: ");
 			int valor = sc.nextInt();
-			i++;
-			
-			
 		
-               
+			
+			if (valor > gisa) {
 				
+				valor = gisa;
+			}
 				
 			
 		}

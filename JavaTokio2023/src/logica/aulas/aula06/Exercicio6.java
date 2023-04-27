@@ -14,7 +14,7 @@ public class Exercicio6 {
 		String peça1 = entrada.nextLine();
 
 		System.out.println("Quantas " + peça1 + " voce irá querer?");
-		double quant = Double.parseDouble(entrada.nextLine());
+		int quant = Integer.parseInt(entrada.nextLine());
 
 		System.out.println("Qual o valor unitário de cada " + peça1);
 		double preço1 = Double.parseDouble(entrada.nextLine());
